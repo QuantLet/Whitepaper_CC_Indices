@@ -1,0 +1,11 @@
+Name of Quantlet: Bitwise10_Crypto_Index_Fund_chart
+
+Published in: Whitepaper_CC_Indices
+
+Description: The code generates a chart for Bitwise 10 Crypto Index Fund.
+
+Submitted: 17 Dec 2025
+
+Keywords: Bitwise 10, time series, python, index, indices 
+
+Author: Ștefan Găman

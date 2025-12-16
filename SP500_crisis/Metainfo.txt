@@ -1,0 +1,11 @@
+Name of Quantlet: SP500_crisis
+
+Published in: Whitepaper_CC_Indices
+
+Description: The code generates a chart for S&P500 that shows the recovery of 2008 crisis. 
+
+Submitted: 17 Dec 2025
+
+Keywords: SP500, crisis, peak, drop, recovery
+
+Author: Ștefan Găman

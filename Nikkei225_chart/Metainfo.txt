@@ -1,0 +1,11 @@
+Name of Quantlet: Nikkei225_chart
+
+Published in: Whitepaper_CC_Indices
+
+Description: The code generates a chart for Nikkei 225 index.
+
+Submitted: 17 Dec 2025
+
+Keywords: Nikkei225, index, time series, python
+
+Author: Ștefan Găman

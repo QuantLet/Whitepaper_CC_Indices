@@ -1,0 +1,11 @@
+Name of Quantlet: SP500_Nasdaq100_chart
+
+Published in: Whitepaper_CC_Indices
+
+Description: The code generates a chart that displays the time series of S&P500 and Nasdaq 100. 
+
+Submitted: 17 Dec 2025
+
+Keywords: S&P500, Nasdaq, Time Series, Evolution, Python, Indices
+
+Author: Ștefan Găman
